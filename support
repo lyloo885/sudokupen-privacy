@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Assistance - Sudokupen</title>
+</head>
+<body>
+  <h1>Assistance - Sudokupen</h1>
+
+  <p>
+    Pour toute question, demande d’aide ou signalement de bug concernant l’application Sudokupen,
+    vous pouvez nous contacter par e-mail.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Email : <a href="mailto:contact@lscinformatique.fr">contact@lscinformatique.fr</a>
+  </p>
+
+  <h2>Informations</h2>
+  <p>
+    Sudokupen est une application de sudoku destinée à proposer une expérience simple,
+    agréable et accessible.
+  </p>
+
+  <p>
+    Nous répondons aux demandes d’assistance dans les meilleurs délais.
+  </p>
+</body>
+</html>
